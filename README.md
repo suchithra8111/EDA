@@ -34,3 +34,4 @@ Retreiving meaningfull insights.
 
 Step5. Data Visualization
 There are different forms of graphs like line graph. scatter plot, bar plot etc for the visualization of the data . Data visualization is essential; we must decide what charts to plot to better understand the data. Here i have plotted the correlation between the salary and age of the employees using a sactter plot . Matplotlib is a Python 2D plotting library used to draw basic charts we use Matplotlib. Seaborn is also a python library built on top of Matplotlib that uses short lines of code to create and style statistical plots from Pandas and Numpy.
+https://github.com/suchithra8111/EDA.git
